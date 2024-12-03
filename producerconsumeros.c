@@ -1,3 +1,4 @@
+//Develop a c program to simulate producer consumer problem using semaphores.
 #include<stdio.h>
 int main()
 {
