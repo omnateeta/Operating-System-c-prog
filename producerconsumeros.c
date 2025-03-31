@@ -1,4 +1,4 @@
-//Develop a c program to simulate producer consumer problem using semaphores,classical problem solver..
+//Develop a c program to simulate producer consumer problem using semaphores,classical problem solver.
 #include<stdio.h>
 int main()
 {
