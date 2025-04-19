@@ -1,3 +1,4 @@
+//countigeous memory in os
 #include<stdio.h>
 #define MAX_BLOCKS 10
 #define MAX_PROCESSES 10
